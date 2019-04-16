@@ -84,7 +84,11 @@ module.exports = function (grunt) {
     // Load the plugin that provides the "compress" task.
     grunt.loadNpmTasks('grunt-contrib-compress');
 
+    grunt.registerTask('start', 'world task description', function(){
+        console.log('** BUILD START **');
+    });
+
     // Default tasks.
-    grunt.registerTask('default', ['clean', 'uglify', 'cssmin', 'copy', 'version', 'compress']);
+    grunt.registerTask('default', ['start', 'clean', 'uglify', 'cssmin', 'copy', 'version', 'compress']);
 
 };
