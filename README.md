@@ -3,7 +3,7 @@ A simple WordPress plugin to toggle and configure WordPress features.
 
 This plugin relies on the Hobo Framework at https://github.com/colinburroughs/wp-hobo-framework
 
-<h5>Front End Features<h5>
+<h5>Front End Features</h5>
 <ul>
 <li>Disable Smart Quotes (a.k.a. curly quotes), em dash, en dash and ellipsis.
 <li>Disable auto-correction of WordPress capitalisation.
@@ -22,7 +22,7 @@ This plugin relies on the Hobo Framework at https://github.com/colinburroughs/wp
 <li>Defer Script Execution. Defer execution of scripts until the HTML document has been fully parsed.
 </ul>
 
-<h5>Back End Features<h5>
+<h5>Back End Features</h5>
 <ul>
 <li>Disable Self Pings (i.e. trackbacks/pings from your own domain).
 <li>Disable RSS Feeds.
@@ -34,7 +34,7 @@ This plugin relies on the Hobo Framework at https://github.com/colinburroughs/wp
 <li>Disable WordPress Cron.
 </ul>
 
-<h5>Privacy Features<h5>
+<h5>Privacy Features</h5>
 <ul>
 <li>Disable Version Printing.
 <li>Disable Version Printing On Script & CSS. <i>Note: This will affect browser caching of script and css assets. Ignored in admin.</i>
@@ -42,7 +42,7 @@ This plugin relies on the Hobo Framework at https://github.com/colinburroughs/wp
 <li>Delete "readme.html" and "license.txt" Files.
 </ul>
 
-<h5>Heartbeat<h5>
+<h5>Heartbeat</h5>
 <ul>
 <li>Disable Heartbeat. <i>Note: By disabling Heartbeat completely, you may disrupt the functionality of some features in WordPress.</i>
 <li>Heartbeat Autostart.	
