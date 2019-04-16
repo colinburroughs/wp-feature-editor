@@ -1,0 +1,5 @@
+*.zip
+.idea/
+*.min.js
+*.min.css
+*.tmp
