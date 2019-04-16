@@ -3,6 +3,8 @@ A simple WordPress plugin to toggle and configure WordPress features.
 
 This plugin relies on the Hobo Framework at https://github.com/colinburroughs/wp-hobo-framework
 
+Once activated in WordPress this plugin resides under the "<em>Settings | WP Feature Editor</em>" admin menu item.
+
 <h5>Front End Features</h5>
 <ul>
 <li>Disable Smart Quotes (a.k.a. curly quotes), em dash, en dash and ellipsis.
@@ -59,3 +61,5 @@ This plugin relies on the Hobo Framework at https://github.com/colinburroughs/wp
 <ul>
 <li>Regular expression filterable plugin capability via "must-use" plugin file. Disable plugins on certain pages or for certain requests.
 </ul> 
+
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](https://gruntjs.com/)
