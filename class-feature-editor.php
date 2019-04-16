@@ -4,7 +4,7 @@
  * Plugin Name:   WP Feature Editor
  * Plugin URI:    https://www.hobo.co.uk
  * Description:   A simple plugin to toggle Wordpress features on and off, filter out plugin loads on pages where they are not required, detect ad blocker.
- * Version:       1.0.0
+ * Version:       0.0.0
  * Author:        Hobo Digital Ltd
  * Author URI:    https://www.hobo.co.uk
  */
