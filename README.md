@@ -56,4 +56,6 @@ This plugin relies on the Hobo Framework at https://github.com/colinburroughs/wp
 </ul>
 
 <h5>Filterable Plugins</h5>
-<li>Regular expression filterable plugin capability via "must-use" plugin file. Disable plugins on certain pages or for certain requests. 
+<ul>
+<li>Regular expression filterable plugin capability via "must-use" plugin file. Disable plugins on certain pages or for certain requests.
+</ul> 
