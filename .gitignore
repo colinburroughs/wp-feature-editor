@@ -1,5 +1,8 @@
-*.zip
 .idea/
+dest/
+node_modules/
+package-lock.json
+*.zip
 *.min.js
 *.min.css
 *.tmp
